@@ -27,3 +27,5 @@
 - Make the smallest focused change, preserve unrelated work, avoid broad reformatting, and do not commit unless asked.
 - For endpoint or domain changes, add or update focused tests.
 - Review the diff for unnecessary files, generated output, stale documentation, and behavior changes.
+
+
